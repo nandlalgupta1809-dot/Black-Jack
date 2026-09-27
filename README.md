@@ -55,7 +55,7 @@ You can also use **VS Code Live Server** for local development.
 blackjack-game/
 ├── index.html
 ├── style.css
-├── script.js
+├── index.js
 └── README.md
 ```
 
